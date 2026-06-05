@@ -48,22 +48,7 @@
 
 ---
 
-## 💼 Experience
 
-### Software Development Intern | HASETRI
-**May 2026 - Present**
-
-Working on a full-scale Internal Workflow Management System to digitize manual organizational processes.
-
-Key Contributions:
-- JWT Authentication & Role-Based Access Control
-- Purchase Requisition Workflow
-- Claims Management System
-- Advance Approval System
-- Dashboard Analytics
-- PDF Generation & Printing
-- REST API Development
-- MongoDB Database Design
 
 ---
 
