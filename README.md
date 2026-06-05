@@ -13,8 +13,6 @@
 
 💻 Passionate about Full Stack Development, Backend Systems, and Problem Solving
 
-🏢 Currently working on a live enterprise project for HASETRI (JK Tyre Research Institute)
-
 🌱 Exploring scalable web applications, workflow automation, and system design
 
 🎯 Goal: Build impactful software solutions that solve real-world problems
