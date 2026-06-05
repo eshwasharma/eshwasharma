@@ -61,17 +61,6 @@ A web-based emergency route planner that calculates the shortest path for ambula
 
 ---
 
-### 🏢 HASETRI Workflow Management System
-Enterprise workflow automation platform that digitizes manual approval processes.
-
-**Features:**
-- Role-Based Authentication
-- Multi-Level Approval Workflow
-- Dashboard Analytics
-- PDF Generation
-- Print & Export Functionality
-
-**Tech Stack:** React.js, TypeScript, Node.js, Express.js, MongoDB, Tailwind CSS
 
 ---
 
